@@ -15,7 +15,6 @@ void main() {
     boolean menu = true;
     while (menu) {
         System.out.println("-------- MENU --------");
-        int i = 0;
         System.out.println("1. Odstranění prvního zvířete");
         System.out.println("2. Výpis všech živočichů starších 5 let");
         System.out.println("3. Výpis nejstaršího živočicha");
